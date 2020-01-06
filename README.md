@@ -1,10 +1,11 @@
 # Data-Mining
 Assignments from Data Mining Module
 ###### P1 - Data Exploration
-     Very basic look at data to understand what is there. 
-     - Renaming
-     - pop
-     - fill missing values
+     > Very basic look at data to understand what is there. 
+     > Renaming
+     > Pop
+     > Fill missing values
+     > Dataframes
 ###### P2  - Data Preprocessing
       Prinicipal Component Analysis (Feature subset Selection), Z-Score normalisation, explained variance, bin data
 ###### P3 - Association
