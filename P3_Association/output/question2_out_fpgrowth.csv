@@ -1,0 +1,232 @@
+support,itemsets,length
+0.6633333333333333,"frozenset({'(-0.003, 1.0]'})",1
+0.6516666666666666,frozenset({'No mortgage'}),1
+0.5066666666666667,frozenset({'No Car'}),1
+0.5,frozenset({'FEMALE'}),1
+0.475,"frozenset({'(4956.094, 24386.173]'})",1
+0.45666666666666667,frozenset({'Has pep'}),1
+0.4483333333333333,frozenset({'INNER_CITY'}),1
+0.3566666666666667,"frozenset({'(34.333, 50.667]'})",1
+0.34,frozenset({'Not Married'}),1
+0.31,frozenset({'No save_act'}),1
+0.24166666666666667,frozenset({'No current_act'}),1
+0.7583333333333333,frozenset({'Has current_act'}),1
+0.66,frozenset({'Is Married'}),1
+0.5433333333333333,frozenset({'No pep'}),1
+0.5,frozenset({'MALE'}),1
+0.49333333333333335,frozenset({'Has Car'}),1
+0.39166666666666666,"frozenset({'(24386.173, 43758.137]'})",1
+0.34833333333333333,frozenset({'Has mortgage'}),1
+0.28833333333333333,frozenset({'TOWN'}),1
+0.69,frozenset({'Yes save_act'}),1
+0.31833333333333336,"frozenset({'(50.667, 67.0]'})",1
+0.325,"frozenset({'(17.951, 34.333]'})",1
+0.22333333333333333,"frozenset({'(1.0, 2.0]'})",1
+0.5,"frozenset({'Has current_act', '(-0.003, 1.0]'})",2
+0.4483333333333333,"frozenset({'Yes save_act', '(-0.003, 1.0]'})",2
+0.3433333333333333,"frozenset({'Yes save_act', '(-0.003, 1.0]', 'Has current_act'})",3
+0.41333333333333333,"frozenset({'(-0.003, 1.0]', 'No mortgage'})",2
+0.5016666666666667,"frozenset({'Has current_act', 'No mortgage'})",2
+0.45,"frozenset({'Yes save_act', 'No mortgage'})",2
+0.435,"frozenset({'Is Married', 'No mortgage'})",2
+0.32166666666666666,"frozenset({'Has current_act', '(-0.003, 1.0]', 'No mortgage'})",3
+0.2866666666666667,"frozenset({'Is Married', '(-0.003, 1.0]', 'No mortgage'})",3
+0.2783333333333333,"frozenset({'Yes save_act', '(-0.003, 1.0]', 'No mortgage'})",3
+0.22166666666666668,"frozenset({'Has current_act', 'Is Married', '(-0.003, 1.0]', 'No mortgage'})",4
+0.22333333333333333,"frozenset({'Has current_act', '(-0.003, 1.0]', 'Yes save_act', 'No mortgage'})",4
+0.35333333333333333,"frozenset({'Has current_act', 'Yes save_act', 'No mortgage'})",3
+0.33166666666666667,"frozenset({'Has current_act', 'Is Married', 'No mortgage'})",3
+0.30666666666666664,"frozenset({'Yes save_act', 'Is Married', 'No mortgage'})",3
+0.23666666666666666,"frozenset({'Has current_act', 'Is Married', 'Yes save_act', 'No mortgage'})",4
+0.345,"frozenset({'No Car', '(-0.003, 1.0]'})",2
+0.3283333333333333,"frozenset({'No Car', 'No mortgage'})",2
+0.39166666666666666,"frozenset({'Has current_act', 'No Car'})",2
+0.33666666666666667,"frozenset({'Is Married', 'No Car'})",2
+0.28,"frozenset({'No Car', 'No pep'})",2
+0.3416666666666667,"frozenset({'Yes save_act', 'No Car'})",2
+0.265,"frozenset({'Has current_act', 'No Car', '(-0.003, 1.0]'})",3
+0.21833333333333332,"frozenset({'No Car', '(-0.003, 1.0]', 'No mortgage'})",3
+0.2633333333333333,"frozenset({'Has current_act', 'No Car', 'No mortgage'})",3
+0.22166666666666668,"frozenset({'Is Married', 'No Car', 'No mortgage'})",3
+0.215,"frozenset({'Yes save_act', 'No Car', 'No mortgage'})",3
+0.25166666666666665,"frozenset({'Has current_act', 'No Car', 'Is Married'})",3
+0.23333333333333334,"frozenset({'Is Married', 'No Car', '(-0.003, 1.0]'})",3
+0.22166666666666668,"frozenset({'Yes save_act', 'No Car', 'Is Married'})",3
+0.21,"frozenset({'Is Married', 'No Car', 'No pep'})",3
+0.20833333333333334,"frozenset({'Has current_act', 'No Car', 'No pep'})",3
+0.225,"frozenset({'Yes save_act', 'No Car', '(-0.003, 1.0]'})",3
+0.265,"frozenset({'Yes save_act', 'No Car', 'Has current_act'})",3
+0.3416666666666667,"frozenset({'FEMALE', 'No mortgage'})",2
+0.33,"frozenset({'FEMALE', '(-0.003, 1.0]'})",2
+0.255,"frozenset({'FEMALE', 'No Car'})",2
+0.38333333333333336,"frozenset({'Has current_act', 'FEMALE'})",2
+0.3433333333333333,"frozenset({'Yes save_act', 'FEMALE'})",2
+0.325,"frozenset({'Is Married', 'FEMALE'})",2
+0.2833333333333333,"frozenset({'FEMALE', 'No pep'})",2
+0.265,"frozenset({'Has current_act', 'FEMALE', 'No mortgage'})",3
+0.23,"frozenset({'Yes save_act', 'FEMALE', 'No mortgage'})",3
+0.21666666666666667,"frozenset({'FEMALE', '(-0.003, 1.0]', 'No mortgage'})",3
+0.255,"frozenset({'Has current_act', 'FEMALE', '(-0.003, 1.0]'})",3
+0.22333333333333333,"frozenset({'Yes save_act', 'FEMALE', '(-0.003, 1.0]'})",3
+0.2,"frozenset({'Has current_act', 'FEMALE', 'No Car'})",3
+0.26666666666666666,"frozenset({'Yes save_act', 'FEMALE', 'Has current_act'})",3
+0.24333333333333335,"frozenset({'Has current_act', 'FEMALE', 'Is Married'})",3
+0.23,"frozenset({'Is Married', 'FEMALE', 'No mortgage'})",3
+0.22833333333333333,"frozenset({'Yes save_act', 'FEMALE', 'Is Married'})",3
+0.22166666666666668,"frozenset({'Is Married', 'FEMALE', '(-0.003, 1.0]'})",3
+0.21333333333333335,"frozenset({'Has current_act', 'FEMALE', 'No pep'})",3
+0.21166666666666667,"frozenset({'Is Married', 'FEMALE', 'No pep'})",3
+0.20333333333333334,"frozenset({'Yes save_act', 'FEMALE', 'No pep'})",3
+0.31833333333333336,"frozenset({'(4956.094, 24386.173]', '(-0.003, 1.0]'})",2
+0.31333333333333335,"frozenset({'(4956.094, 24386.173]', 'No mortgage'})",2
+0.27,"frozenset({'(4956.094, 24386.173]', 'No Car'})",2
+0.22666666666666666,"frozenset({'(4956.094, 24386.173]', 'FEMALE'})",2
+0.35833333333333334,"frozenset({'Has current_act', '(4956.094, 24386.173]'})",2
+0.325,"frozenset({'Is Married', '(4956.094, 24386.173]'})",2
+0.29333333333333333,"frozenset({'(4956.094, 24386.173]', 'No pep'})",2
+0.285,"frozenset({'Yes save_act', '(4956.094, 24386.173]'})",2
+0.205,"frozenset({'(4956.094, 24386.173]', 'Has Car'})",2
+0.24833333333333332,"frozenset({'(4956.094, 24386.173]', 'MALE'})",2
+0.23833333333333334,"frozenset({'Has current_act', '(4956.094, 24386.173]', '(-0.003, 1.0]'})",3
+0.22166666666666668,"frozenset({'Is Married', '(4956.094, 24386.173]', '(-0.003, 1.0]'})",3
+0.20166666666666666,"frozenset({'(4956.094, 24386.173]', '(-0.003, 1.0]', 'No mortgage'})",3
+0.23833333333333334,"frozenset({'Has current_act', '(4956.094, 24386.173]', 'No mortgage'})",3
+0.22166666666666668,"frozenset({'Is Married', '(4956.094, 24386.173]', 'No mortgage'})",3
+0.20333333333333334,"frozenset({'Has current_act', 'No Car', '(4956.094, 24386.173]'})",3
+0.24,"frozenset({'Has current_act', '(4956.094, 24386.173]', 'Is Married'})",3
+0.22,"frozenset({'Has current_act', '(4956.094, 24386.173]', 'No pep'})",3
+0.21333333333333335,"frozenset({'Is Married', '(4956.094, 24386.173]', 'No pep'})",3
+0.22,"frozenset({'Yes save_act', '(4956.094, 24386.173]', 'Has current_act'})",3
+0.3433333333333333,"frozenset({'(-0.003, 1.0]', 'Has pep'})",2
+0.30333333333333334,"frozenset({'No mortgage', 'Has pep'})",2
+0.22666666666666666,"frozenset({'No Car', 'Has pep'})",2
+0.21666666666666667,"frozenset({'FEMALE', 'Has pep'})",2
+0.3516666666666667,"frozenset({'Has current_act', 'Has pep'})",2
+0.29833333333333334,"frozenset({'Yes save_act', 'Has pep'})",2
+0.25666666666666665,"frozenset({'Is Married', 'Has pep'})",2
+0.24,"frozenset({'MALE', 'Has pep'})",2
+0.23,"frozenset({'Has Car', 'Has pep'})",2
+0.26,"frozenset({'Has current_act', '(-0.003, 1.0]', 'Has pep'})",3
+0.21333333333333335,"frozenset({'(-0.003, 1.0]', 'No mortgage', 'Has pep'})",3
+0.23833333333333334,"frozenset({'Has current_act', 'No mortgage', 'Has pep'})",3
+0.23333333333333334,"frozenset({'Yes save_act', 'Has current_act', 'Has pep'})",3
+0.21333333333333335,"frozenset({'Yes save_act', 'No mortgage', 'Has pep'})",3
+0.205,"frozenset({'Yes save_act', '(-0.003, 1.0]', 'Has pep'})",3
+0.31,"frozenset({'(-0.003, 1.0]', 'INNER_CITY'})",2
+0.2916666666666667,"frozenset({'INNER_CITY', 'No mortgage'})",2
+0.23166666666666666,"frozenset({'No Car', 'INNER_CITY'})",2
+0.22666666666666666,"frozenset({'(4956.094, 24386.173]', 'INNER_CITY'})",2
+0.21833333333333332,"frozenset({'FEMALE', 'INNER_CITY'})",2
+0.205,"frozenset({'INNER_CITY', 'Has pep'})",2
+0.3416666666666667,"frozenset({'Has current_act', 'INNER_CITY'})",2
+0.2966666666666667,"frozenset({'Is Married', 'INNER_CITY'})",2
+0.28833333333333333,"frozenset({'Yes save_act', 'INNER_CITY'})",2
+0.24333333333333335,"frozenset({'INNER_CITY', 'No pep'})",2
+0.21666666666666667,"frozenset({'Has Car', 'INNER_CITY'})",2
+0.23,"frozenset({'MALE', 'INNER_CITY'})",2
+0.23166666666666666,"frozenset({'Has current_act', '(-0.003, 1.0]', 'INNER_CITY'})",3
+0.22666666666666666,"frozenset({'Has current_act', 'INNER_CITY', 'No mortgage'})",3
+0.22666666666666666,"frozenset({'Has current_act', 'Is Married', 'INNER_CITY'})",3
+0.20833333333333334,"frozenset({'Is Married', '(-0.003, 1.0]', 'INNER_CITY'})",3
+0.22666666666666666,"frozenset({'Yes save_act', 'INNER_CITY', 'Has current_act'})",3
+0.2,"frozenset({'Yes save_act', 'Is Married', 'INNER_CITY'})",3
+0.25333333333333335,"frozenset({'(34.333, 50.667]', '(-0.003, 1.0]'})",2
+0.23,"frozenset({'(34.333, 50.667]', 'No mortgage'})",2
+0.2633333333333333,"frozenset({'Has current_act', '(34.333, 50.667]'})",2
+0.23333333333333334,"frozenset({'Is Married', '(34.333, 50.667]'})",2
+0.205,"frozenset({'(24386.173, 43758.137]', '(34.333, 50.667]'})",2
+0.24,"frozenset({'Yes save_act', '(34.333, 50.667]'})",2
+0.21666666666666667,"frozenset({'No mortgage', 'Not Married'})",2
+0.215,"frozenset({'(-0.003, 1.0]', 'Not Married'})",2
+0.2,"frozenset({'Not Married', 'Has pep'})",2
+0.27,"frozenset({'Has current_act', 'Not Married'})",2
+0.22833333333333333,"frozenset({'Yes save_act', 'Not Married'})",2
+0.215,"frozenset({'No save_act', '(-0.003, 1.0]'})",2
+0.20166666666666666,"frozenset({'No save_act', 'No mortgage'})",2
+0.22666666666666666,"frozenset({'Has current_act', 'No save_act'})",2
+0.48833333333333334,"frozenset({'Has current_act', 'Is Married'})",2
+0.46166666666666667,"frozenset({'Yes save_act', 'Is Married'})",2
+0.4483333333333333,"frozenset({'Is Married', '(-0.003, 1.0]'})",2
+0.3433333333333333,"frozenset({'Yes save_act', 'Is Married', 'Has current_act'})",3
+0.33,"frozenset({'Has current_act', 'Is Married', '(-0.003, 1.0]'})",3
+0.30666666666666664,"frozenset({'Yes save_act', 'Is Married', '(-0.003, 1.0]'})",3
+0.225,"frozenset({'Yes save_act', 'Is Married', '(-0.003, 1.0]', 'Has current_act'})",4
+0.4066666666666667,"frozenset({'Has current_act', 'No pep'})",2
+0.4033333333333333,"frozenset({'Is Married', 'No pep'})",2
+0.39166666666666666,"frozenset({'Yes save_act', 'No pep'})",2
+0.34833333333333333,"frozenset({'No pep', 'No mortgage'})",2
+0.32,"frozenset({'(-0.003, 1.0]', 'No pep'})",2
+0.295,"frozenset({'Has current_act', 'Is Married', 'No pep'})",3
+0.29833333333333334,"frozenset({'Yes save_act', 'No pep', 'Has current_act'})",3
+0.2916666666666667,"frozenset({'Yes save_act', 'Is Married', 'No pep'})",3
+0.21666666666666667,"frozenset({'Yes save_act', 'Is Married', 'No pep', 'Has current_act'})",4
+0.285,"frozenset({'Is Married', 'No pep', 'No mortgage'})",3
+0.2633333333333333,"frozenset({'Has current_act', 'No pep', 'No mortgage'})",3
+0.23666666666666666,"frozenset({'Yes save_act', 'No pep', 'No mortgage'})",3
+0.215,"frozenset({'Has current_act', 'No pep', 'Is Married', 'No mortgage'})",4
+0.2,"frozenset({'Yes save_act', 'No pep', 'Is Married', 'No mortgage'})",4
+0.26,"frozenset({'Is Married', '(-0.003, 1.0]', 'No pep'})",3
+0.24333333333333335,"frozenset({'Yes save_act', '(-0.003, 1.0]', 'No pep'})",3
+0.24,"frozenset({'Has current_act', '(-0.003, 1.0]', 'No pep'})",3
+0.2,"frozenset({'No pep', '(-0.003, 1.0]', 'No mortgage'})",3
+0.375,"frozenset({'Has current_act', 'MALE'})",2
+0.335,"frozenset({'Is Married', 'MALE'})",2
+0.26,"frozenset({'MALE', 'No pep'})",2
+0.3333333333333333,"frozenset({'(-0.003, 1.0]', 'MALE'})",2
+0.31,"frozenset({'MALE', 'No mortgage'})",2
+0.25166666666666665,"frozenset({'No Car', 'MALE'})",2
+0.3466666666666667,"frozenset({'Yes save_act', 'MALE'})",2
+0.245,"frozenset({'Has current_act', 'Is Married', 'MALE'})",3
+0.23333333333333334,"frozenset({'Yes save_act', 'Is Married', 'MALE'})",3
+0.245,"frozenset({'Has current_act', '(-0.003, 1.0]', 'MALE'})",3
+0.22666666666666666,"frozenset({'Is Married', '(-0.003, 1.0]', 'MALE'})",3
+0.225,"frozenset({'Yes save_act', '(-0.003, 1.0]', 'MALE'})",3
+0.23666666666666666,"frozenset({'Has current_act', 'MALE', 'No mortgage'})",3
+0.22,"frozenset({'Yes save_act', 'MALE', 'No mortgage'})",3
+0.205,"frozenset({'Is Married', 'MALE', 'No mortgage'})",3
+0.265,"frozenset({'Yes save_act', 'MALE', 'Has current_act'})",3
+0.36666666666666664,"frozenset({'Has current_act', 'Has Car'})",2
+0.3233333333333333,"frozenset({'Is Married', 'Has Car'})",2
+0.2633333333333333,"frozenset({'Has Car', 'No pep'})",2
+0.24833333333333332,"frozenset({'MALE', 'Has Car'})",2
+0.34833333333333333,"frozenset({'Yes save_act', 'Has Car'})",2
+0.3233333333333333,"frozenset({'Has Car', 'No mortgage'})",2
+0.31833333333333336,"frozenset({'(-0.003, 1.0]', 'Has Car'})",2
+0.245,"frozenset({'FEMALE', 'Has Car'})",2
+0.23666666666666666,"frozenset({'Has current_act', 'Is Married', 'Has Car'})",3
+0.24,"frozenset({'Yes save_act', 'Is Married', 'Has Car'})",3
+0.21333333333333335,"frozenset({'Is Married', 'Has Car', 'No mortgage'})",3
+0.26666666666666666,"frozenset({'Has current_act', 'Yes save_act', 'Has Car'})",3
+0.23833333333333334,"frozenset({'Has current_act', 'Has Car', 'No mortgage'})",3
+0.235,"frozenset({'Yes save_act', 'Has Car', 'No mortgage'})",3
+0.235,"frozenset({'Has current_act', '(-0.003, 1.0]', 'Has Car'})",3
+0.22333333333333333,"frozenset({'Yes save_act', '(-0.003, 1.0]', 'Has Car'})",3
+0.215,"frozenset({'Is Married', '(-0.003, 1.0]', 'Has Car'})",3
+0.295,"frozenset({'Has current_act', '(24386.173, 43758.137]'})",2
+0.24666666666666667,"frozenset({'(24386.173, 43758.137]', 'Is Married'})",2
+0.215,"frozenset({'(24386.173, 43758.137]', 'Has Car'})",2
+0.20666666666666667,"frozenset({'(24386.173, 43758.137]', 'No pep'})",2
+0.27166666666666667,"frozenset({'Yes save_act', '(24386.173, 43758.137]'})",2
+0.24666666666666667,"frozenset({'(24386.173, 43758.137]', 'No mortgage'})",2
+0.205,"frozenset({'(24386.173, 43758.137]', 'FEMALE'})",2
+0.2633333333333333,"frozenset({'(24386.173, 43758.137]', '(-0.003, 1.0]'})",2
+0.20666666666666667,"frozenset({'Yes save_act', '(24386.173, 43758.137]', 'Has current_act'})",3
+0.25666666666666665,"frozenset({'Has current_act', 'Has mortgage'})",2
+0.225,"frozenset({'Is Married', 'Has mortgage'})",2
+0.25,"frozenset({'Has mortgage', '(-0.003, 1.0]'})",2
+0.24,"frozenset({'Yes save_act', 'Has mortgage'})",2
+0.21333333333333335,"frozenset({'Has current_act', 'TOWN'})",2
+0.21333333333333335,"frozenset({'Yes save_act', 'TOWN'})",2
+0.5316666666666666,"frozenset({'Yes save_act', 'Has current_act'})",2
+0.25166666666666665,"frozenset({'Yes save_act', '(50.667, 67.0]'})",2
+0.24,"frozenset({'Has current_act', '(50.667, 67.0]'})",2
+0.21333333333333335,"frozenset({'(50.667, 67.0]', 'No mortgage'})",2
+0.21333333333333335,"frozenset({'Is Married', '(50.667, 67.0]'})",2
+0.20166666666666666,"frozenset({'(-0.003, 1.0]', '(50.667, 67.0]'})",2
+0.29,"frozenset({'(4956.094, 24386.173]', '(17.951, 34.333]'})",2
+0.255,"frozenset({'Has current_act', '(17.951, 34.333]'})",2
+0.21333333333333335,"frozenset({'Is Married', '(17.951, 34.333]'})",2
+0.20833333333333334,"frozenset({'(17.951, 34.333]', 'No mortgage'})",2
+0.20666666666666667,"frozenset({'(17.951, 34.333]', 'No pep'})",2
+0.20833333333333334,"frozenset({'(-0.003, 1.0]', '(17.951, 34.333]'})",2
+0.23,"frozenset({'Has current_act', '(4956.094, 24386.173]', '(17.951, 34.333]'})",3

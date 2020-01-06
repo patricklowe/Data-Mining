@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence
+frozenset({'21...25'}),frozenset({'junior'}),0.15384615384615385,1.0
